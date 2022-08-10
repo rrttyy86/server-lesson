@@ -11,7 +11,6 @@
 - mv
 - rm
 - cat
-- >
 - vi
   - i
   - esc
