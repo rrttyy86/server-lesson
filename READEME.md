@@ -1,19 +1,19 @@
 - ls
-  -- -a
-  -- -l
+  - -a
+  - -l
 - pwd
 - cd
 - mkdir
 - touch
 - &&
 - cp
-  -- -r
+  - -r
 - mv
 - rm
 - cat
 - >
-  -- >
-  -- >>
+  - >
+  - >>
 - vi
-  -- i
-  -- esc
+  - i
+  - esc
